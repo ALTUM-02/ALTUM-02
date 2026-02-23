@@ -1,9 +1,9 @@
 ## Hi there 👋
 # 🌟 ALTUM-02 🌟
 
-### | Full-Stack Developer | 
+###         | Full-Stack Developer | 
 
-<h2 align="center">full -stuck developer</h2>
+  <h2 align="center">full -stuck developer</h2>
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:martin249jesus@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com)
