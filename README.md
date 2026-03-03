@@ -20,7 +20,7 @@
   <a href="https://github.com/ALTUM-02">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://instagram.com/your_username">
+  <a href="https://instagram.com/martin_jesus02">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
