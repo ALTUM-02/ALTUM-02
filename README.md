@@ -1,7 +1,9 @@
 ## Hi there 👋
 # 🌟 ALTUM-02 🌟
 
-###         | Full-Stack Developer | 
+###         # Welcome To My Project 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7A41D&width=435&lines=Hello+I+am+Martin;Django+Developer;Building+Modern+Web+Apps" />
 
   <h2 align="center">full -stuck developer</h2>
 
