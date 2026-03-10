@@ -27,27 +27,6 @@
 </p>
 
 ## 👋 Welcome to My Digital Hub!
-### 🚀 Share on
-
-<table>
-	<tr>
-		<td>
-			<a href="https://whatsapp.com/ROSSARY-02">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://linkedin.com">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
-			</a>
-		</td>
-		<td>
-			<a href="https:/email.com">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
-			</a>
-		</td>
-	</tr>
-</table>
 
 ## 🏆 **Achievements**
 <div align="center">
