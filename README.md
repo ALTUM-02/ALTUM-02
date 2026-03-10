@@ -28,6 +28,13 @@
 
 ## 👋 Welcome to My Digital Hub!
 
+
+## 🏆 **Achievements**
+<div align="center">
+
+[![trophy](https://github.tarxemo.com/badges/ALTUM-02/trophies/)](https://github.tarxemo.com/github/user/ALTUM-02/)
+
+</div>
 I'm a full-stack developer from Tanzania,
 
 ## 🚀 Current Projects
