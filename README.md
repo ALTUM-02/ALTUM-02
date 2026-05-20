@@ -41,6 +41,7 @@ I'm a full-stack developer from Tanzania,
 - 🛒 E-Commerce Platform (Django + React)
 - 🤖 AI Automation Scripts
 - 📫 Django-TO-DO
+- 💼 portfolio(React + typescript)
 
 
 <!--
