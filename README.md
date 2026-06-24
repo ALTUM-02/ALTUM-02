@@ -27,11 +27,11 @@
 </p>
 
 ## 👋 Welcome to My Digital Hub!
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarxemo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALTUM-02&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
-[![committers.top badge](https://user-badge.committers.top/tanzania_private/tarxemo.svg)](https://user-badge.committers.top/tanzania_private/tarxemo)
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/ALTUM-02.svg)](https://user-badge.committers.top/tanzania_private/ALTUM-02)
 ---
 
 ## 🏆 **Achievements**
@@ -48,6 +48,7 @@ I'm a full-stack developer from Tanzania,
 - 🤖 AI Automation Scripts
 - 📫 Django-TO-DO
 - 💼 portfolio(React + typescript)
+  
 
 
 <!--
